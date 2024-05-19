@@ -46,6 +46,7 @@ items:
         labels:
           kubevirt.io/domain: centos-gitops
           kubevirt.io/size: small
+          special: key
       spec:
         domain:
           cpu:
